@@ -36,7 +36,7 @@ const String iosDefaultIconName = 'Icon-App';
 
 // web
 /// favicon.ico size
-const int kFaviconSize = 16;
+const int kFaviconSize = 32;
 
 /// Relative web direcotry path
 String webDirPath = path.join('web');
